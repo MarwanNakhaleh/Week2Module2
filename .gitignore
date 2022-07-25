@@ -1,0 +1,11 @@
+Voting/node_modules
+Voting/.env
+Voting/coverage
+Voting/coverage.json
+Voting/typechain
+Voting/typechain-types
+
+#Hardhat files
+Voting/cache
+Voting/artifacts
+
